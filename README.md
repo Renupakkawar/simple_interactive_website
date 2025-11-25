@@ -49,7 +49,7 @@ Styled headings and text for a premium landing-page feel.
 
 ## 📸 Screenshot
 
-![Project Screenshot](./your-image-file.png)
+![Project Screenshot](screenshot.png)
 
 Replace the image path with your actual screenshot file name.
 
